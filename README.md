@@ -1,3 +1,8 @@
+-=(IronHorse_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Iron Horse for [MISTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 An FPGA implementation of Iron Horse for the MiSTer platform
 
